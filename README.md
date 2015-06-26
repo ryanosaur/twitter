@@ -1,4 +1,4 @@
-# Heimdall
+# Whisper
 ## Because Norse Gods were cool.
 
 ### A lightweight template for all your Angular.js needs.

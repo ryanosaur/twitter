@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('heimdall', [])
+angular.module('whisper', [])
 
 .controller('MainCtrl', function($scope){
 });
